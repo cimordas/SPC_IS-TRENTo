@@ -1,0 +1,4 @@
+[ libroot_tree_dic.so ]
+# List of selected classes
+class event_CLASS
+header event_CLASS.h

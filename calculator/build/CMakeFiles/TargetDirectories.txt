@@ -1,0 +1,10 @@
+/home/cindy/cernbox/MyProjects/SPC_IS-Trento/calculator/build/CMakeFiles/rebuild_cache.dir
+/home/cindy/cernbox/MyProjects/SPC_IS-Trento/calculator/build/CMakeFiles/edit_cache.dir
+/home/cindy/cernbox/MyProjects/SPC_IS-Trento/calculator/build/CMakeFiles/ratio.dir
+/home/cindy/cernbox/MyProjects/SPC_IS-Trento/calculator/build/CMakeFiles/calculate.dir
+/home/cindy/cernbox/MyProjects/SPC_IS-Trento/calculator/build/src/CMakeFiles/rebuild_cache.dir
+/home/cindy/cernbox/MyProjects/SPC_IS-Trento/calculator/build/src/CMakeFiles/edit_cache.dir
+/home/cindy/cernbox/MyProjects/SPC_IS-Trento/calculator/build/src/CMakeFiles/src.dir
+/home/cindy/cernbox/MyProjects/SPC_IS-Trento/calculator/build/src/CMakeFiles/events_info_dic.dir
+/home/cindy/cernbox/MyProjects/SPC_IS-Trento/calculator/build/src/CMakeFiles/functions_dic.dir
+/home/cindy/cernbox/MyProjects/SPC_IS-Trento/calculator/build/src/CMakeFiles/root_tree_dic.dir

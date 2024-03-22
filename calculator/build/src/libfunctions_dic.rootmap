@@ -1,0 +1,4 @@
+[ libfunctions_dic.so ]
+# List of selected classes
+class functions
+header functions.h

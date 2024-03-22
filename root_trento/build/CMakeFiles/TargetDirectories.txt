@@ -1,0 +1,9 @@
+/home/cindy/cernbox/MyProjects/SPC_IS-Trento/root_trento/build/CMakeFiles/rebuild_cache.dir
+/home/cindy/cernbox/MyProjects/SPC_IS-Trento/root_trento/build/CMakeFiles/edit_cache.dir
+/home/cindy/cernbox/MyProjects/SPC_IS-Trento/root_trento/build/CMakeFiles/merger.dir
+/home/cindy/cernbox/MyProjects/SPC_IS-Trento/root_trento/build/CMakeFiles/root_trento.dir
+/home/cindy/cernbox/MyProjects/SPC_IS-Trento/root_trento/build/src/CMakeFiles/rebuild_cache.dir
+/home/cindy/cernbox/MyProjects/SPC_IS-Trento/root_trento/build/src/CMakeFiles/edit_cache.dir
+/home/cindy/cernbox/MyProjects/SPC_IS-Trento/root_trento/build/src/CMakeFiles/src.dir
+/home/cindy/cernbox/MyProjects/SPC_IS-Trento/root_trento/build/src/CMakeFiles/events_info_dic.dir
+/home/cindy/cernbox/MyProjects/SPC_IS-Trento/root_trento/build/src/CMakeFiles/root_tree_dic.dir

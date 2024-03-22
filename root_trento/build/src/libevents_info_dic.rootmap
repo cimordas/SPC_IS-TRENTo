@@ -1,0 +1,4 @@
+[ libevents_info_dic.so ]
+# List of selected classes
+class events_info_CLASS
+header events_info_CLASS.h
